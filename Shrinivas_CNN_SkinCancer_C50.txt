@@ -1,0 +1,7 @@
+Batch #: C50
+Name : Shrinivas Bhat
+email : s.shrinivas.bhat@gmail.com
+Github Repository link
+- https://github.com/sshrinivasbhat/upgrad_skin_cancer_grepo.git
+
+Notebook Name:ShrinivasBhat_Assignment_CNN_Skin_Cancer.ipynb
