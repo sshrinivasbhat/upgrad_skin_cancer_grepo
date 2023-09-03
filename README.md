@@ -19,20 +19,22 @@
 - What is the business probem that your project is trying to solve?
     -  multiclass classification model using a custom convolutional neural network in TensorFlow. 
     - 9 Classes of skin cancer present in the database.
-    	Class	No. of Image	percent(%)
-        0	melanoma	439	20.0
-        1	pigmented benign keratosis	462	21.0
-        2	nevus	358	16.0
-        3	basal cell carcinoma	377	17.0
-        4	actinic keratosis	115	5.0
-        5	squamous cell carcinoma	181	8.0
-        6	vascular lesion	139	6.0
-        7	seborrheic keratosis	78	3.0
-        8	dermatofibroma	95	4.0
-     - Impact of class imbalance , class rebalancing strategy and improve classification accuracy.
+    -                     Class                No. of Image      percent(%)
+    -        0                     melanoma          439        20.0
+    -        1    igmented benign keratosis          462        21.
+    -        2                     nevus             358        16.0
+    -        3        basal cell carcinoma           377        17.0
+    -        4           actinic keratosis           115         5.0
+    -        5     squamous cell carcinoma           181         8.0
+    -        6             vascular lesion           139         6.0
+    -        7        seborrheic keratosis            78         3.0
+    -        8              dermatofibroma            95         4.0
+
+- Impact of class imbalance , class rebalancing strategy and improve classification accuracy.
     
 - What is the dataset that is being used?
-    The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
+    - The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC).
+    - All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
